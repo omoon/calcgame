@@ -47,7 +47,7 @@ Config::set('language', Session::get('language'));
 		<div class="hero-unit">
             <h1><?php echo Lang::get('title'); ?></h1>
             <p><?php echo Lang::get('sub_title'); ?></p>
-            <p><a class="btn btn-primary btn-large" href="http://blog.omoon.org"><?php echo Lang::get('about'); ?></a></p>
+            <p><a class="btn btn-primary btn-large" href="http://blog.omoon.org/20121215/524"><?php echo Lang::get('about'); ?></a></p>
 
             <div>
             <a href="./keisan.php" target="_blank"><?php echo Lang::get('to_orignal'); ?></a>
